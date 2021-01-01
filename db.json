@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "dimas",
+      "alamat": "Sumbawa",
+      "umur": "19",
+      "nohp": "0210974029492"
+    },
+    {
+      "id": 2,
+      "nama": "nova",
+      "alamat": "Sumbawa",
+      "umur": "19",
+      "nohp": "0210974029492"
+    },
+    {
+      "id": 3,
+      "nama": "amelia",
+      "alamat": "Sumbawa",
+      "umur": "19",
+      "nohp": "0210974029492"
+    }
+  ]
+}
